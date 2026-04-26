@@ -6,5 +6,5 @@
 # Como executar
 
 ```bash
-chmod +x run.sh
+run.sh
 ./run.sh
