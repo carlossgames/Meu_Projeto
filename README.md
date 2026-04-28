@@ -5,6 +5,8 @@
 
 # Como executar
 
+É necessário ter o Python instalado para que o comando ./run.sh funcione corretamente.
+
 ```bash
 run.sh
 ./run.sh
